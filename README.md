@@ -1,7 +1,7 @@
 # vue-slide
 > A slide component for Vue. :boom: :boom: :boom: :boom:
 
-[live demo](http://ihanyang.github.io/demo/vue-slide.html)
+[live demo](http://ihanyang.github.io/demo/vue-slide)
 ## Installing
 
 ``` bash
