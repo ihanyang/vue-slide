@@ -28,6 +28,7 @@
 	overflow: auto;
 }
 .slide-item img {
+	display: block;
 	width: 100%;
 }
 
