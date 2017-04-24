@@ -1,0 +1,26 @@
+{
+  "name": "vue-slide2",
+  "version": "1.0.0",
+  "description": "A slide component for Vue",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihanyang/vue-slide.git"
+  },
+  "keywords": [
+    "vue",
+    "slide"
+  ],
+  "author": "hanyang <513915503@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihanyang/vue-slide/issues"
+  },
+  "homepage": "https://github.com/ihanyang/vue-slide#readme"
+}
